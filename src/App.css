@@ -6,6 +6,17 @@
   align-items: center;
 
   height: 100vh;
+  animation: body-animation 1.2s;
+}
+
+@keyframes body-animation {
+  from {
+    transform: rotateX(90deg);
+  }
+
+  to {
+    transform: rotateX(0deg);
+  }
 }
 
 .text-input {
@@ -51,5 +62,5 @@ a:hover {
 
 a:active {
   box-shadow: 0 .1rem .4rem -.2rem black;
-    transform: translateY(0.07rem);
+  transform: translateY(0.07rem);
 }

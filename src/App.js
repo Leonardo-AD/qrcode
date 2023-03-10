@@ -15,7 +15,7 @@ export function App() {
       width: 500,
       margin: 2
     }, function(error, url){ //Calback
-      setQrcodeImage(url)
+       setQrcodeImage(url)
     })
 
   }
