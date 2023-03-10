@@ -37,6 +37,7 @@ a {
   padding: .8rem;
   background-color: #d5d5d5;
   border: none;
+  cursor: pointer;
 
   border-radius: .5rem;
   max-width: 20rem;
