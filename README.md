@@ -10,7 +10,11 @@
 
 ## Interface
 
-<img src="./public/" width="400"/> 
+<img src="./public/interface.png" width="400"/>
+
+<p>Generated QR Code image 👇</p>
+
+<img src="./public/qrcode.png" width="300"/>
 
 ## Starting the Application
 
