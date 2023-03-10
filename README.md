@@ -10,7 +10,7 @@
 
 ## Interface
 
-<img src="./public/interface.png" width="400"/>
+<img src="./public/interface01.png" width="400"/>
 
 <p>Generated QR Code image 👇</p>
 
