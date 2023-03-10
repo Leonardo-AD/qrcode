@@ -12,6 +12,10 @@
 
 <img src="./public/interface01.png" width="400"/>
 
+<p>Creating a QR Code</p>
+
+<img src="./public/interface02.png" width="400"/>
+
 <p>Generated QR Code image 👇</p>
 
 <img src="./public/qrcode.png" width="300"/>
